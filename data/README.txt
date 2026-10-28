@@ -1,0 +1,1 @@
+Bundled model, feature schema, encoders, training dataset, and simulation databases. See ../docs/DATA_AND_MODEL.md. simulation_history.db is the imported read-only historical record; new runs use simulation.db.

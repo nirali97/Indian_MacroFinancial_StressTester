@@ -1,0 +1,12 @@
+# Local Python environment and generated files
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Keep secrets off GitHub
+.env
+
+
+# Local simulation output (the supplied history file is tracked in the project ZIP)
+data/simulation.db
